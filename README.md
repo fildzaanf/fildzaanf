@@ -11,7 +11,7 @@
 ### ✨ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,js,java,cpp,php,html,css,tailwind,mysql,postgres,redis,gcp,aws,vscode,git,docker,figma,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=go,java,js,react,html,css,tailwind,mysql,postgres,redis,gcp,aws,vscode,git,docker,postman,figma,vite&perline=14" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 <div>
   <p align = "center">
 <a href="https://www.linkedin.com/in/hanisah-fildza-annafisah-8b946b154/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/fildzaanf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:hanisahfildza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 <!--
