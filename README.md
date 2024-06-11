@@ -8,14 +8,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ✨ Tech Stack
+### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,java,js,react,html,css,tailwind,mysql,postgres,redis,gcp,aws,vscode,git,docker,postman,figma,vite&perline=14" />
   </a>
 </p>
 
-### ✨ Connect with Me
+### Connect with Me
 <div>
   <p align = "center">
 <a href="https://www.linkedin.com/in/hanisah-fildza-annafisah-8b946b154/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
