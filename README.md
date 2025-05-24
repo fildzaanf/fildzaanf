@@ -11,7 +11,7 @@
 ### 🚀   Tools and Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,js,java,py,ts,mysql,postgres,redis,elasticsearch,mongodb,gcp,aws,linux,docker,kubernetes,firebase,vscode,gitlab,postman,figma&perline=5" />
+    <img src="https://skillicons.dev/icons?i=go,js,java,py,ts,mysql,postgres,redis,elasticsearch,mongodb,gcp,aws,linux,docker,kubernetes,kafka,firebase,gitlab,postman,figma&perline=5" />
   </a>
 </p>
 
