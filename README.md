@@ -13,7 +13,7 @@
 - 🎓 Software Engineering Graduate from Universitas Pendidikan Indonesia
 - 💻 Currently working as a Backend Developer
 - 🌏 Previously an Intern at Telkom Indonesia as a Backend Developer
-- 💡 Passionate about Backend Development, Software Architecture, Software Engineering, Distributed Systems, Artificial Intelligence
+- 💡 Passionate about Backend Engineering, Software Architecture, Distributed Systems, Artificial Intelligence
 
 ### 🚀   Tools and Technologies
 <p align="center">
