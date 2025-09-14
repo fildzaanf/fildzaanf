@@ -8,6 +8,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 👩🏻‍💻   About Me
+
+- 🎓 Software Engineering Graduate from Universitas Pendidikan Indonesia
+- 💻 Currently working as a Backend Developer
+- 🌏 Previously an Intern at Telkom Indonesia as Backend Developer
+- 💡 Passionate about Backend Development, Software Architecture, Software Engineering, Distributed Systems, Artificial Intelligence
+
 ### 🚀   Tools and Technologies
 <p align="center">
   <a href="https://skillicons.dev">
