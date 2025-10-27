@@ -12,6 +12,7 @@
 - 💻 Currently working as a Backend Developer
 - 🌏 Previously an Intern at Telkom Indonesia as a Backend Developer
 - 💡 Passionate about Backend Engineering, Software Architecture, Distributed Systems, Artificial Intelligence
+- 📩 Contact me at hanisahfildza@gmail.com
 
 ### 🚀   Tools and Technologies
 <p align="center">
