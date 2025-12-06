@@ -21,16 +21,6 @@
   </a>
 </p>
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fildzaanf&show_icons=true&theme=transparent" />
-</p>
-<br>
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fildzaanf&layout=compact" />
-</p>
-
-
 ### 📫  Let's Connect
 <div>
   <p align = "center">
