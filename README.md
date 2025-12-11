@@ -36,6 +36,9 @@
     <a href="https://www.hackerrank.com/profile/fildzaanf" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank">
     </a>
+    <a href="https://leetcode.com/u/fildzaanf/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+   </a>
 </div>
 
 
