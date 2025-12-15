@@ -13,7 +13,7 @@
 - 💻 Currently working as a Backend Developer
 - 🌏 Previously an Intern at Telkom Indonesia as a Backend Developer
 - 💡 Passionate about Backend Engineering, Software Architecture, Distributed Systems, Artificial Intelligence
-- 🌿 Find balance through Yoga, Music, and Reading
+- 🌿 Find balance through Yoga, Music, and Books
 
 ### 🚀   Tools and Technologies
 <p align="center">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-### 📫  Let's Connect
+### 📫  Get in Touch
 <div>
   <p align = "center">
     <a href="https://www.linkedin.com/in/hanisah-fildza-annafisah-8b946b154/" target="_blank">
