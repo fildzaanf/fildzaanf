@@ -13,6 +13,7 @@
 - 💻 Currently working as a Backend Developer
 - 🌏 Previously an Intern at Telkom Indonesia as a Backend Developer
 - 💡 Passionate about Backend Engineering, Software Architecture, Distributed Systems, Artificial Intelligence
+- 🌿 Find balance through Yoga, Music, and Reading
 
 ### 🚀   Tools and Technologies
 <p align="center">
