@@ -13,7 +13,7 @@
 - 💻 Currently working as a Backend Developer
 - 🌏 Previously an Intern at Telkom Indonesia as a Backend Developer
 - 💡 Passionate about Backend Engineering, Software Architecture, Distributed Systems, Artificial Intelligence
-- 🏦 Particularly interested in Financial Technology domains including Banking, Payment Systems, Insurance, Multifinance, and Capital Markets
+- 🏦 Particularly interested in Financial Technology domains including Banking, Digital Payment Systems, Insurance, Multifinance, and Capital Markets
 - 🌿 Find balance through Yoga, Music, and Books
 
 ### 🚀   Tools and Technologies
